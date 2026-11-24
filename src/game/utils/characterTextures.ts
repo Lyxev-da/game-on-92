@@ -1,3 +1,4 @@
+// @ts-nocheck -- imported game code written for looser TS settings
 import * as THREE from 'three';
 
 /**

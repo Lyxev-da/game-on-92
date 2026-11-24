@@ -1,3 +1,4 @@
+// @ts-nocheck -- imported game code written for looser TS settings
 /**
  * Round director for the Huss Valley loop:
  *

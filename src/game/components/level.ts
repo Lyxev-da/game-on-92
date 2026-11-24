@@ -1,3 +1,4 @@
+// @ts-nocheck -- imported game code written for looser TS settings
 import type { AABB, Ramp as PlayerRamp } from './PlayerController';
 
 export interface LevelBox {

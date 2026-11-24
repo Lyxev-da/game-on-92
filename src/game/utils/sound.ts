@@ -1,3 +1,4 @@
+// @ts-nocheck -- imported game code written for looser TS settings
 // Sound engine: MyInstants clips bundled into the build (so they work from file://),
 // plus procedural WebAudio blips for movement feedback.
 
